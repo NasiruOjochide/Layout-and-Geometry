@@ -11,6 +11,8 @@
 		2901092E29C64605005429FA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2901092D29C64605005429FA /* ContentView.swift */; };
 		2901093029C64607005429FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2901092F29C64607005429FA /* Assets.xcassets */; };
 		2901093329C64607005429FA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2901093229C64607005429FA /* Preview Assets.xcassets */; };
+		2901093A29CAFCD7005429FA /* PositioningView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2901093929CAFCD7005429FA /* PositioningView.swift */; };
+		2901093C29CB11D9005429FA /* geometryReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2901093B29CB11D9005429FA /* geometryReaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		2901092D29C64605005429FA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2901092F29C64607005429FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2901093229C64607005429FA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2901093929CAFCD7005429FA /* PositioningView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PositioningView.swift; sourceTree = "<group>"; };
+		2901093B29CB11D9005429FA /* geometryReaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = geometryReaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				2901092B29C64605005429FA /* Layout_and_GeometryApp.swift */,
 				2901092D29C64605005429FA /* ContentView.swift */,
+				2901093929CAFCD7005429FA /* PositioningView.swift */,
+				2901093B29CB11D9005429FA /* geometryReaderView.swift */,
 				2901092F29C64607005429FA /* Assets.xcassets */,
 				2901093129C64607005429FA /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2901092E29C64605005429FA /* ContentView.swift in Sources */,
+				2901093C29CB11D9005429FA /* geometryReaderView.swift in Sources */,
+				2901093A29CAFCD7005429FA /* PositioningView.swift in Sources */,
 				2901092C29C64605005429FA /* Layout_and_GeometryApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -11,7 +11,7 @@ import SwiftUI
 struct Layout_and_GeometryApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            geometryReaderView()
         }
     }
 }
